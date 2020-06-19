@@ -1,8 +1,8 @@
-# Hadoop versoin- 3.2.1
+Dependencies:
+- Hadoop version- 3.2.1
+- Java - openJDK 8
 
-# Hadoop MapReduce Word Count
- Hadoop Mapreduce Programming model
+*AccessLogs, HighStockPrice, KeyValFileFormat, WordCount are some of MapReduce examples.
 
-1. Copy any .txt file to HDFS (I/P file path)
-2. Use the following command in /bin/hadoop folder
-   - hadoop jar "JarFilePath" className /<I/P filePath> /<O/P filePath>
+PutMerge is a code for combining multiple files into single file to reduce execution time.
+PutMerge reduced execution time from 8.23 minutes to 46 seconds for stock price data files.
