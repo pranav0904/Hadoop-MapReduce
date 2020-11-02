@@ -1,5 +1,7 @@
 Author: Pranav Khiste
 
+This repository focuses on big data analytics using Hadoop MapReduce patterns. 
+
 Dependencies:
 - Hadoop version- 3.2.1
 - Java - openJDK 8
