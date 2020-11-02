@@ -1,3 +1,5 @@
+Author: Pranav Khiste
+
 Dependencies:
 - Hadoop version- 3.2.1
 - Java - openJDK 8
